@@ -198,9 +198,13 @@ int main(){
     printf ( "Driver is not insured" ) ; 
     } 
     } 
-
+printf("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&");
     return 0;
+
+    
    } 
+
+   
 
 
 
