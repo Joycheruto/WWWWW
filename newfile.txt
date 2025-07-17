@@ -1,0 +1,7 @@
+hello!!!!
+This is file handling in c programming.
+newline is appended.
+newline is appended.
+newline is appended.
+newline is appended.
+newline is appended.
